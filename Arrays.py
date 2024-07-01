@@ -8,4 +8,7 @@ for n in new_list:
         print(True)
         
         break
-        
+ 
+A = "Dog" 
+new_list_2 = [1, A, 2]
+print(new_list_2)
